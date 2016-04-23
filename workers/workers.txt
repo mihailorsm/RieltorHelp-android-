@@ -1,1 +1,2 @@
-Вадим Тарантин (Abilis), java
+﻿Вадим Тарантин (Abilis), java
+Сергей Сахаров (sakharov_s), java
